@@ -1,0 +1,51 @@
+name: csematerials_app
+description: "cuet_cse_course_materials_app."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  lucide_icons: ^0.257.0
+  image_picker: ^1.2.0
+  permission_handler: ^12.0.1
+  url_launcher: ^6.3.2
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  supabase_flutter: ^2.10.3
+  webview_flutter: ^4.13.0
+  webview_flutter_android: ^4.10.5
+  webview_flutter_wkwebview: ^3.23.2
+  dio: ^5.9.0
+  path_provider: ^2.1.5
+  shared_preferences: ^2.5.3
+  intl: ^0.20.2
+  file_picker: ^10.3.6
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+# -------------- NEW SECTION FOR APP ICON --------------
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon1.png"
+# -------------- END -----------------------------------

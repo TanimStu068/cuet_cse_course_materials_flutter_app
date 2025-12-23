@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388931985055",
+    "project_id": "cuet-33bdf",
+    "storage_bucket": "cuet-33bdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388931985055:android:6a1916c6dcacf6fce14caa",
+        "android_client_info": {
+          "package_name": "com.example.cuet_cse_course_materials_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdn_S57mqSVfufek56Jo718QMXZClcpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
