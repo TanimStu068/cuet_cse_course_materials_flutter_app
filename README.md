@@ -1,6 +1,6 @@
 # Chat Hub Flutter App
 
-![App Logo](assets/icon/chat_icon.png)  
+![App Logo](assets/icon/app_icon.png)  
 
 **Chat Hub** is a comprehensive educational Flutter app that allows students to access course materials, previous exam questions, quizzes, and more in an organized and user-friendly interface. The app also integrates AI-based recommendations to enhance learning and productivity.
 
