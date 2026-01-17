@@ -68,12 +68,9 @@ The app is powered by modern backend services:
 
 - **Firebase Authentication**: Secure login and user management.  
 - **Cloud Firestore**: Real-time database for courses, materials, and user interactions.  
-- **Supabase**: Additional backend services for scalable storage and data management.  
+- **Supabase**: Additional backend services for scalable storage and data management.
 
-## **Installation**
+### screenshots 
+![image1](csematerialsimage1.jpeg)
+![image2](csematerialsimage2.jpeg)
 
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/username/chat_hub_flutter.git
-cd chat_hub_flutter
